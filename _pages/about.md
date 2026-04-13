@@ -1,23 +1,23 @@
 ---
-layout: about
-title: "Giới thiệu bản thân"
 permalink: /
+title: "Xin chào, tôi là Khôi Nguyên"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-Chào mừng bạn đến với trang web cá nhân của tôi!
+Tôi là **Trần Khôi Nguyên**, hiện là sinh viên chuyên ngành Kỹ thuật tại Học viện Công nghệ Bưu chính Viễn thông (PTIT).
 
-Tôi là **Trần Khôi Nguyên**, hiện đang là sinh viên chuyên ngành Kỹ thuật tại **Học viện Công nghệ Bưu chính Viễn thông (PTIT)**. Với niềm đam mê lớn dành cho công nghệ, tôi tập trung nghiên cứu và phát triển các hệ thống nhúng và giải pháp IoT.
+Tôi có niềm đam mê với việc nghiên cứu hệ thống nhúng, phát triển các giải pháp IoT và ứng dụng trí tuệ nhân tạo trên thiết bị biên (Edge AI).
 
-### Lĩnh vực quan tâm
-* **Hệ thống nhúng & IoT:** Nghiên cứu và lập trình trên các dòng vi điều khiển ESP32, STM32 và Arduino.
-* **Thiết kế cơ khí 3D:** Sử dụng SolidWorks để thiết kế mô hình máy móc và vỏ hộp thiết bị điện tử.
-* **Edge AI:** Ứng dụng trí tuệ nhân tạo trên thiết bị biên để xử lý tín hiệu cảm biến và âm thanh.
+## 🎯 Lĩnh vực quan tâm
+* Hệ thống nhúng và IoT (Embedded Systems - ESP32, STM32, Arduino)
+* Thiết kế cơ khí 3D (SolidWorks)
+* Edge AI và xử lý tín hiệu âm thanh.
 
-### Dự án tiêu biểu: Arduino LM35 Temp Monitor
-Đây là dự án tiêu biểu tôi vừa thực hiện nhằm xây dựng hệ thống giám sát nhiệt độ môi trường. Dự án bao gồm:
-* **Firmware:** Lập trình Arduino đọc dữ liệu từ cảm biến nhiệt độ LM35.
-* **PC App:** Ứng dụng máy tính hiển thị biểu đồ nhiệt độ thời gian thực.
-* **Simulation:** Bản thiết kế và mô phỏng mạch điện hoàn chỉnh trên Proteus.
-
-Bạn có thể tham khảo chi tiết mã nguồn của tôi trong danh mục Projects trên trang web này hoặc trực tiếp qua GitHub.
+## 🚀 Dự án nổi bật
+### Arduino LM35 Temperature Monitor
+Hệ thống giám sát nhiệt độ sử dụng cảm biến LM35 kết nối Arduino, dữ liệu được truyền qua Serial và hiển thị trực quan dưới dạng đồ thị trên máy tính.
+* **Công nghệ:** Arduino C++, C# WinForms, Git/GitHub.
+* [Xem mã nguồn trên GitHub](https://github.com/khoinguyen0110/Arduino_LM35_TempMonitor).
