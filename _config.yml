@@ -1,9 +1,41 @@
+# Site Settings
 title: "Personal Portfolio"
 name: "Trần Khôi Nguyên"
 description: "IoT Research and Engineering"
 url: "https://khoinguyen0110.github.io"
-bio: "Sinh viên Kỹ thuật tại PTIT | Đam mê IoT & Embedded Systems."
-location: "TP. Hồ Chí Minh, Việt Nam"
-email: "khoinguyen0110@gmail.com"
-github: "khoinguyen0110"
-avatar: "/images/avatar.jpg"
+baseurl: "" # Để trống nếu là trang chính <username>.github.io
+
+# Author Settings
+author:
+  name: "Trần Khôi Nguyên"
+  avatar: "/images/avatar.png" # Sửa từ .jpg sang .png cho khớp với file ông đã đẩy lên
+  bio: "Sinh viên Kỹ thuật tại PTIT | Đam mê IoT & Embedded Systems."
+  location: "TP. Hồ Chí Minh, Việt Nam"
+  email: "khoinguyen0110@gmail.com"
+  github: "khoinguyen0110"
+  uri: "https://khoinguyen0110.github.io"
+
+# Site Navigation (Thanh menu trên cùng)
+nav:
+  - title: "Hồ sơ cá nhân"
+    url: /
+  - title: "Ấn phẩm"
+    url: /publications/
+  - title: "Dạy học"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
+
+# Jekyll Settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+include:
+  - _pages
