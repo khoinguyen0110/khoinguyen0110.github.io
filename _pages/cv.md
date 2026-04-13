@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2022 - Hiện tại: Sinh viên Kỹ thuật, Học viện Công nghệ Bưu chính Viễn thông (PTIT).
+* Lĩnh vực nghiên cứu: Internet of Things (IoT), Hệ thống nhúng và Edge AI.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Xuân 2026: Thực tập sinh Dự án AIoT
+  * Học viện Công nghệ Bưu chính Viễn thông (PTIT)
+  * Nhiệm vụ: Phát triển hệ thống giám sát nhiệt độ LM35, thiết kế giao diện PC App và xây dựng hệ thống Smart Home cho người cao tuổi.
+  * Công cụ: Arduino, C#, SolidWorks, Proteus.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hệ thống nhúng & IoT: 
+  * Lập trình vi điều khiển: Arduino, ESP32, STM32.
+  * Giao tiếp: MQTT, HTTP, UART, I2C.
+* Thiết kế & Mô phỏng:
+  * 3D Modeling: SolidWorks.
+  * Mô phỏng mạch: Proteus.
+* Phần mềm & Dữ liệu:
+  * Ngôn ngữ: C/C++, C#, Python.
+  * Công cụ: Git/GitHub, Docker, PostgreSQL.
+* AI biên: 
+  * Huấn luyện mô hình TinyML trên Edge Impulse.
 
 Publications
 ======
@@ -61,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Tham gia các dự án nghiên cứu nhóm về Smart City và Edge Computing tại Lab trường.
